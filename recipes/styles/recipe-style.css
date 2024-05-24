@@ -1,0 +1,18 @@
+* {
+    font-family: "Times New Roman", Times, serif;
+    background-color: lightblue;
+}
+
+.desc {
+    font-size: 36px;
+    color: white;
+}
+
+.ingredients {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.steps {
+    font-size: 28px;
+}
