@@ -1,0 +1,43 @@
+body {
+    background-color: lightblue;
+}
+
+.body {
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0px 300px;
+}
+
+.main-title {
+    font-size: 64px;
+    border: 20px solid navy;
+}
+
+ul {
+    list-style-type: none;
+    border: 20px solid navy;
+    padding: 30px;
+    font-size: 32px;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+    color: rgb(83, 30, 168);
+}
+
+.motivation-title {
+    text-align: center;
+    font-size: 48px;
+    margin-top: 650px;
+    margin-bottom: -15px;
+}
+
+.motivation {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    border: 15px, solid black;
+    padding: 30px;
+}
